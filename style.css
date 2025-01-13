@@ -36,8 +36,7 @@ header nav {
 }
 
 .sms{
-     /* Debe ser igual al ancho para que sea circular */
-    border-radius: 50%; /* Esto hará que el elemento sea circular */
+    border-radius: 50%; 
     
 
 }
